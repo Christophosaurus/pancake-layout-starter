@@ -1,0 +1,27 @@
+.footer {
+  background: #333;
+}
+
+.footer h3 {
+  color: #fff;
+}
+
+.footer .flex-row {
+  justify-content: space-between;
+}
+
+.footer-column {
+  padding: .2rem .4rem;
+  color: #ccc;
+  text-align: left;
+}
+
+.footer-column__heading {
+  color: #ddd;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-bottom: 1px solid #fff;
+  padding-bottom: .5rem;
+  margin-bottom: 1.2rem;
+  text-align: center;
+}
